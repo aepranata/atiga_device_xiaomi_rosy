@@ -1,0 +1,26 @@
+[
+    {
+        "remote": "github",
+        "branch": "atiga-1.0",
+        "repository": "aepranata/atiga_kernel_xiaomi_rosy",
+        "target_path": "kernel/xiaomi/rosy"
+    },
+    {
+        "remote": "github",
+        "branch": "atiga-1.0",
+        "repository": "aepranata/atiga_vendor_xiaomi_rosy",
+        "target_path": "vendor/xiaomi/rosy"
+    },
+    {
+        "remote": "github",
+        "branch": "qcom",
+        "repository": "iusmac/RevampedFMRadio",
+        "target_path": "packages/apps/RevampedFMRadio"
+    },
+    {
+        "remote": "gitlab",
+        "branch": "16.x",
+        "repository": "aepranata/atiga-clang",
+        "target_path": "prebuilts/clang/host/linux-x86/clang-atiga"
+    }
+]
